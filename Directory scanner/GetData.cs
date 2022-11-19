@@ -37,7 +37,7 @@ namespace Directory_scanner
         }
 
 
-        /// <summary> Данные для скрипта JavaScript Chart.</summary>
+        /// <summary> Данные для скрипта JavaScript Chart</summary>
         /// <param name="fileList">Массив файлов.</param>
         public string JsChart(FileProperty fileList)
         {
